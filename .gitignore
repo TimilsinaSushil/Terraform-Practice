@@ -1,0 +1,17 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.log
+*.tfvars
+*.tfvars.json
+.terraform.lock.hcl
+*.backup
+*.bak
+*.swp
+*.swo
+.idea/
+.vscode/
+.DS_Store
+node_modules/
+.env
